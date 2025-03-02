@@ -67,7 +67,7 @@ export default function ChatButton() {
       {isOpen && (
         <div className="fixed bottom-20 right-6 w-80 md:w-96 bg-white border shadow-lg rounded-lg overflow-hidden z-50 animate-slideUp">
           <div className="bg-[#101622] text-white p-4 flex justify-between items-center">
-            <h3 className="text-lg font-bold">Red Ruddy Group Incorporated</h3>
+            <h3 className="text-lg font-bold">SkyRise Contracting Ltd.</h3>
             <button onClick={() => setIsOpen(false)} className="text-white">✕</button>
           </div>
 
